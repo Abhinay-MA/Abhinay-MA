@@ -38,4 +38,4 @@ Performance metrics, ROI calculations, segmentation logic, attribution-style joi
 
 ## 📬 Connect With Me  
 **LinkedIn:** https://linkedin.com/in/abhinay-kumar-250b0a197  
-**Email:** tunikiabhinay@gmail.com
+**Email:** tunikiabhinaykumar@gmail.com
